@@ -11,6 +11,8 @@ import (
 	"google.golang.org/adk/cmd/launcher/full"
 	"google.golang.org/adk/model/gemini"
 	"google.golang.org/adk/server/restapi/services"
+	"google.golang.org/adk/tool"
+	"google.golang.org/adk/tool/geminitool"
 	"google.golang.org/genai"
 )
 
@@ -44,6 +46,7 @@ func main() {
 		Model:       model,
 		Description: "A simple Hello World agent.",
 		Instruction: "You are a creative assistant.",
+		Tools:       []tool.Tool{geminitool.GoogleSearch{}},
 	})
 	if err != nil {
 		log.Fatalf("Failed to create agent: %v", err)

@@ -6,12 +6,14 @@
 -- tools demo --
 show me the documentation for net/http
 --
-show me the documentation for github.com/modelcontextprotocol/go-sdk/mcp
+summarise the documentation for github.com/modelcontextprotocol/go-sdk/mcp
 -- tools demo --
 
 -- prompts demo --
 /haiku --theme="bletchley park"
-/context
+Or
+/interview
+/outline
 /readability
 -- prompts demo
 

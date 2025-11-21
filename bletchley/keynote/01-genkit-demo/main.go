@@ -45,7 +45,7 @@ func main() {
 	)
 
 	// Invoke the flow
-	prompt := "Say hello to the world in a creative way!"
+	prompt := "Say something nice about Bletchley Park"
 	result, err := helloFlow.Run(ctx, prompt)
 	if err != nil {
 		log.Fatalf("Flow invocation failed: %v", err)
