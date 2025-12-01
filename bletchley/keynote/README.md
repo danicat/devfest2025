@@ -35,6 +35,12 @@ A conversational agent built with the **Agent Development Kit (ADK)**. It demons
     ```bash
     export GOOGLE_CLOUD_PROJECT="your-project-id"
     ```
+    Alternatively, you can create a `.env` file in the project root with the following content:
+    ```env
+    GOOGLE_CLOUD_PROJECT=your-project-id
+    GOOGLE_CLOUD_LOCATION=us-central1
+    GOOGLE_GENAI_USE_VERTEXAI=1
+    ```
 
 3.  **Run:**
     Navigate to the specific demo directory and follow the instructions in its `README.md`.
