@@ -2,6 +2,9 @@
 
 This is the companion repository for the keynote at **DevFest Bletchley Park 2025** entitled "Go for GenAI!".
 
+
+**Slides:** [Go for GenAI](https://speakerdeck.com/danicat/go-for-genai)
+
 ## Contents
 
 ### [01. Genkit Demo](./01-genkit-demo/)

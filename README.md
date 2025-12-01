@@ -1,10 +1,12 @@
 # DevFest 2025
 
-This repository contains resources, code samples, and workshop materials for my talks and workshops during the DevFest 2025 season.
+This repository contains resources, code samples, and materials for my talks and workshops during the DevFest 2025 season.
 
 ## Events
 
-- **[DevFest Bletchley Park](./bletchley)**: Keynote demos, MCP introduction, and workshop materials.
+-   **[DevFest Bletchley Park](./bletchley)**: Keynote demos, MCP introduction, and workshop materials.
+-   **[DevFest Birmingham](./birmingham)**: Gemini CLI, Stitch, and Go demos.
+-   **[DevFest Scotland](./scotland)**: AIDA - AI Diagnostic Agent using Gemini and OSQuery.
 
 ## Structure
 

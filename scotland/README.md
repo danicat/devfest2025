@@ -2,6 +2,10 @@
 
 AIDA is a local, privacy-focused emergency diagnostic agent. It leverages `osquery` to inspect system state and uses a sophisticated local RAG (Retrieval-Augmented Generation) system to understand osquery's extensive schema and utilize expert-written query packs.
 
+**Official Website:** [DevFest Scotland 2025](https://devfestscotland.com/)
+
+**Slides:** [How to Build a Diagnostic Agent](https://speakerdeck.com/danicat/how-to-create-a-diagnostic-agent-with-gemini-and-osquery)
+
 ![AIDA Interface](aida_v3.png)
 
 ## Key Features

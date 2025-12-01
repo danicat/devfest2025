@@ -2,6 +2,8 @@
 
 This directory contains resources and a guide for building a simple Model Context Protocol (MCP) server in Go.
 
+**Slides:** [Hello, MCP World!](https://speakerdeck.com/danicat/hello-mcp-world-a490bdb2-daf6-4758-a7a9-3e8c829ad195)
+
 ## Contents
 
 - **[PROMPTS.md](PROMPTS.md)**: A step-by-step script/guide for the demo. It covers:
